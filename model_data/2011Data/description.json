@@ -2,7 +2,7 @@
   "version"            : "March 29 2020",
   "author(s)"          : "Leon Danon",
   "contact(s)"         : "l.danon@bristol.ac.uk",
-  "reference(s)"       : "..."
+  "reference(s)"       : "...",
   "work"               : "EW1.dat",
   "play"               : "PlayMatrix.dat",
   "play_size"          : "PlaySize.dat",
