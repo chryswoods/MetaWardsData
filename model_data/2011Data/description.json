@@ -1,0 +1,13 @@
+{ "work"               : "EW1.dat",
+  "play"               : "PlayMatrix.dat",
+  "play_size"          : "PlaySize.dat",
+  "position"           : "CBB2011.dat",
+  "seed"               : "seeds.dat",
+  "nodes_to_track"     : "seeds.dat",
+  "additional_seeding" : "ExtraSeedsBrighton.dat",
+  "uv"                 : null,
+  "weekend"            : null,
+  "identifier"         : null,
+  "identifier2"        : null,
+  "version"            : "March 29 2020"
+}
