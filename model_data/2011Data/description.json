@@ -1,4 +1,9 @@
-{ "work"               : "EW1.dat",
+{ "name"               : "2011Data", 
+  "version"            : "March 29 2020",
+  "author(s)"          : "Leon Danon",
+  "contact(s)"         : "l.danon@bristol.ac.uk",
+  "reference(s)"       : "..."
+  "work"               : "EW1.dat",
   "play"               : "PlayMatrix.dat",
   "play_size"          : "PlaySize.dat",
   "position"           : "CBB2011.dat",
@@ -8,6 +13,5 @@
   "uv"                 : null,
   "weekend"            : null,
   "identifier"         : null,
-  "identifier2"        : null,
-  "version"            : "March 29 2020"
+  "identifier2"        : null
 }

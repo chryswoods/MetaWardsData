@@ -14,7 +14,8 @@
   "dyn_play_at_home"                 : 0.0,
   "local_vaccination_threshold"      : 4,
   "global_detection_threshold"       : 4,
-  "neighbour_weight_threshold:       : 0.0,
+  "neighbour_weight_threshold"       : 0.0,
   "daily_ward_vaccination_capacity"  : 5,
+  "daily_imports"                    : 0,
   "UV"                               : 0.0
 }
